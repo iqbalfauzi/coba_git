@@ -36,7 +36,7 @@
 |  $autoload['packages'] = array(APPPATH.'third_party', '/usr/local/shared');
 |
 */
-
+COMMIT KE 2
 $autoload['packages'] = array();
 
 
