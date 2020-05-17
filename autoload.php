@@ -37,7 +37,7 @@
 |
 */
 COMMIT KE 2
-  
+  new
   
   jangan lupa titik koma
 $autoload['packages'] = array();
